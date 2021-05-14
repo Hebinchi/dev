@@ -14,4 +14,7 @@
 - 准备自动化测试代码
 - git去提交
   - 把代码提交到本地仓库
-  - 
+  - 本地的代码推送到公司的远程代码仓库(GitHub, GitLab, gitee, coding)
+    "git init" # 初始化本地仓
+    "git add ."
+    "git commit -m 'commit message'"
